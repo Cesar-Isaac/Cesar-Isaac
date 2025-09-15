@@ -20,22 +20,23 @@ I'm a **Junior Flutter Developer** with a strong foundation in **Dart** and cros
 ## 🚀 Projects
 
 ### 📱 [Renva App](https://github.com/Cesar-Isaac/Renva-App.git)
-A platform connecting users with service providers.  
-Users can submit requests, and providers respond with offers that include price and estimated completion time.  
+The application aims to simplify services for citizens.  
+Users can log in and submit the service they want to be completed.  
+Their request is then displayed to service providers, who respond with offers that include the service price and estimated completion time.  
 🔗 [Download APK](https://drive.google.com/file/d/1__SJHi86ekum09zTXS3LfHEiHXS2W9eK/view?usp=drivesdk)
 
 ---
 
 ### 🦷 [Dental Clinic App](https://github.com/Cesar-Isaac/Dental-Clinic-App.git)
-Flutter-based application for managing patient appointments in a dental clinic.  
-Helps streamline clinic workflow and scheduling.
+Built with the Flutter framework, it aims to manage and organize patient appointments in a dental clinic.  
+Helps streamline clinic workflow and scheduling.  
 🔗 [Download APK](https://drive.google.com/file/d/1ihlAGr4eV4FSxSy0KiQHCbdS-dLdXNFd/view?usp=drivesdk)
 
 ---
 
 ### ✅ [To-Do App](https://github.com/Cesar-Isaac/To-Do-App.git)
-A training project to manage daily tasks with date and time scheduling.  
-Similar to a notes app with simple task management features.
+Developed with the Flutter framework, its concept is similar to a daily notes application.  
+It helps you organize your daily tasks according to the time and date you choose.  
 
 ---
 
@@ -79,13 +80,13 @@ Similar to a notes app with simple task management features.
 
 ## 🎓 Training & Education
 
-- - **Flutter Training – IXCoders (Tamkeen)**  
+- **Flutter Training – IXCoders (Tamkeen)**  
   Completed a hands-on Flutter development training covering key topics such as:  
   - State management with **GetX**  
   - RESTful API integration  
   - Local data persistence (**Hive** / **SQFlite**)  
   - Building responsive UIs using modern design principles  
-  The course also introduced a wide range of tools and best practices that empower developers to become **professional, production-ready Flutter engineers**.
+  The course also introduced a wide range of tools and best practices that empower developers to become **professional, production-ready Flutter engineers**.  
 
 - **Syrian Virtual University – Faculty of IT (ITE)**  
   Student (2023 – expected graduation 2028)
@@ -99,6 +100,7 @@ Similar to a notes app with simple task management features.
 ---
 
 ⭐️ Feel free to check out my repositories for more details about my work!
+
 
 
 
