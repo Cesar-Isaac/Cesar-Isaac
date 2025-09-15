@@ -79,8 +79,13 @@ Similar to a notes app with simple task management features.
 
 ## 🎓 Training & Education
 
-- **Flutter Training – IXCoders (Tamkeen)**  
-  Covered GetX, RESTful API integration, local persistence, responsive UI, and clean architecture.  
+- - **Flutter Training – IXCoders (Tamkeen)**  
+  Completed a hands-on Flutter development training covering key topics such as:  
+  - State management with **GetX**  
+  - RESTful API integration  
+  - Local data persistence (**Hive** / **SQFlite**)  
+  - Building responsive UIs using modern design principles  
+  The course also introduced a wide range of tools and best practices that empower developers to become **professional, production-ready Flutter engineers**.
 
 - **Syrian Virtual University – Faculty of IT (ITE)**  
   Student (2023 – expected graduation 2028)
